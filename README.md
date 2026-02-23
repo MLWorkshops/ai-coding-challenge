@@ -2,6 +2,10 @@
 
 Mission: use AI tools to build a real landing page for your fictional startup.
 
+**The setup and recommendations below are a suggested path for completing this challenge — teams are free to use any tools and IDEs they prefer.** The end goal is simple: ship a creative landing page for your startup.
+
+Be creative. Generate logos. Generate images and videos and embed them in your page. Create games or activities. Make it memorable.
+
 ⚡ Open your IDE (Cursor or similar)
 🤖 Use AI agents (Cline, RooCode, etc.) to prompt and generate
 🛠 Build, preview, tweak, regenerate
