@@ -294,5 +294,3 @@ Have a backup:
 - Open ChatGPT or any other similar AI Chat app (Gemini, CoPilot, etc) you have access to in browser
 - Generate full HTML
 - Paste into Cursor
-
-Zero drama.
