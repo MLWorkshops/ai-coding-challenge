@@ -12,14 +12,27 @@ Push the AI. Break things. Ask for improvements. Try bold prompts. This is about
 
 # 👥 Team Structure (3–5 People)
 
-Assign roles quickly (These are only suggestive, feel free to switch roles/create your own workflows): 
+Assign roles quickly (these are just a starting point—feel free to swap, combine, or invent new ones):
 
-- **Prompt Architect** – Writes and iterates prompts
-- **Builder** – Runs the IDE and deploys
-- **Product Lead** – Clarifies messaging and value prop
-- **Designer (optional)** – Improves layout & polish
+- **Prompt Architect** – Crafts and tweaks prompts for the AI
+- **Builder** – Operates the IDE and implements changes
+- **Product Lead** – Focuses the team on messaging and what makes your project useful
+- **Designer (optional)** – Refines layout, colors, and overall looks
+
+Tip: Rotate roles every round (round robin style), so everyone gets a turn prompting, building, and reviewing. This way, each team member can experience every part of the process, and ideas flow from all directions.
+
 
 One laptop per team minimum.
+
+# 🛠️ Tools Powering Your Build
+
+---
+
+HTML is the foundational structure of every website. It defines the content and layout of a page — things like headings, paragraphs, buttons, and sections. Think of it as the skeleton of a webpage: it organizes what appears on the screen, but not how it looks.
+
+Tailwind is a CSS framework that controls how your HTML looks — spacing, colors, fonts, layout, and responsiveness. Instead of writing custom CSS, you use small utility classes directly in your HTML (like text-4xl, p-8, or bg-white) to style elements quickly. It makes building clean, modern designs much faster.
+
+Cursor is an AI-powered code editor built on top of VS Code. It lets you generate, edit, and refactor code using built-in AI directly inside your project. Instead of switching between your editor and ChatGPT, Cursor acts like an AI teammate that can modify files, rewrite sections, and help you iterate faster.
 
 # 🚀 Step-by-Step: Setting Up Cursor AI (First Time)
 
